@@ -95,7 +95,8 @@
         padding: 2rem;
     }
     .game-info{
-        position: static;
+        top: 2rem;
+        left: 7rem;
         transform: none;
         padding: 0.5rem 1rem;
     }
