@@ -88,3 +88,24 @@
 .win{
     background-color: rgba(0, 255, 0, 0.3);
 }
+
+@media screen and (max-width: 768px){
+    .wrapper{
+        padding: 2rem;
+    }
+    .game-info{
+        top: 1rem;
+        left: 1rem;
+        transform: none;
+        padding: 0.5rem 1rem;
+    }
+    .tic-tac-toe{
+        padding: 1rem;
+    }
+    .btn{
+        bottom: 1rem;
+        left: 1rem;
+        transform: none;
+        padding: 0.5rem 1rem;
+    }
+}
